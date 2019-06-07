@@ -1,0 +1,9 @@
+﻿  Vector.cpp
+D:\学习\Data Structure\Practice-Data-Structure-and-Algorithm-Analysis\Chapter3\Chapter3\Vector.cpp(5): error C2955: “Vector”: 使用 类 模板 需要 模板 参数列表
+  D:\学习\Data Structure\Practice-Data-Structure-and-Algorithm-Analysis\Chapter3\Chapter3\Vector.h(6): note: 参见“Vector”的声明
+D:\学习\Data Structure\Practice-Data-Structure-and-Algorithm-Analysis\Chapter3\Chapter3\Vector.cpp(6): error C2509: “{ctor}”: 成员函数没有在“Vector”中声明
+  D:\学习\Data Structure\Practice-Data-Structure-and-Algorithm-Analysis\Chapter3\Chapter3\Vector.h(6): note: 参见“Vector”的声明
+D:\学习\Data Structure\Practice-Data-Structure-and-Algorithm-Analysis\Chapter3\Chapter3\Vector.cpp(10): error C2955: “Vector”: 使用 类 模板 需要 模板 参数列表
+  D:\学习\Data Structure\Practice-Data-Structure-and-Algorithm-Analysis\Chapter3\Chapter3\Vector.h(6): note: 参见“Vector”的声明
+D:\学习\Data Structure\Practice-Data-Structure-and-Algorithm-Analysis\Chapter3\Chapter3\Vector.cpp(11): error C2509: “{dtor}”: 成员函数没有在“Vector”中声明
+  D:\学习\Data Structure\Practice-Data-Structure-and-Algorithm-Analysis\Chapter3\Chapter3\Vector.h(6): note: 参见“Vector”的声明
