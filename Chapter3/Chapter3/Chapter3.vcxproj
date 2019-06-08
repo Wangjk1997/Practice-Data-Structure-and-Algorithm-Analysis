@@ -19,11 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="List_test.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Vector_test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h" />
+    <ClInclude Include="List_test.h" />
     <ClInclude Include="Vector.h" />
+    <ClInclude Include="Vector_test.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -1,9 +1,7 @@
 #include<iostream>
-#include "Vector.h"
-#include "List.h"
+#include"List_test.h"
 int main()
-{	
-
-	List<int> a;
+{
+	List_test();
 	return 0;
 }
